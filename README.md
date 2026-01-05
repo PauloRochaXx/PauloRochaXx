@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou o Paulo Rocha
 
-Sou servidor público federal, atuo como **Administrador** na Universidade Federal do Oeste da Bahia (UFOB) e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com interesse em tecnologia aplicada à gestão, análise de dados e desenvolvimento de soluções simples e funcionais.
+Sou servidor público federal, atuo como **Administrador** na Universidade Federal do Oeste da Bahia (UFOB) e sou graduando no curso de  **Análise e Desenvolvimento de Sistemas (UESB)**, com interesse em tecnologia aplicada à gestão, análise de dados e desenvolvimento de soluções simples e funcionais.
 
 Este GitHub reúne **projetos de estudo e desenvolvimento prático**, voltados principalmente para aprendizado contínuo, organização de portfólio e aplicação de conceitos de programação.
 
@@ -17,11 +17,16 @@ Este GitHub reúne **projetos de estudo e desenvolvimento prático**, voltados p
 ---
 
 ## 🛠️ Tecnologias e ferramentas
-- Python  
+- Python
+- Linguagem R
+- Java
 - HTML, CSS, JavaScript  
-- Git e GitHub  
-- Pandas (análise de dados)  
-- Noções de desenvolvimento web e lógica de programação  
+- Git e GitHub
+- VsCode
+- PyCharm
+- Google Colab
+- RStudio
+- MIT App Inventor
 
 ---
 
@@ -29,13 +34,13 @@ Este GitHub reúne **projetos de estudo e desenvolvimento prático**, voltados p
 Alguns projetos disponíveis neste repositório:
 
 - **TradutorEnglishVsPortuguese**  
-  Aplicativo simples para tradução de textos do inglês para o português.
+ Aplicativo Android (APK) para tradução de textos do inglês para o português, desenvolvido no MIT App Inventor como projeto pessoal no curso do IFSC (dez/2023).
 
 - **Projeto Game Flappy Bird em Python**  
-  Implementação de um jogo clássico para fins de estudo de lógica e programação.
+  Projeto de desenvolvimento de jogo clássico, implementado em Python e desenvolvido no ambiente PyCharm.
 
 - **Desenvolvimento Web**  
-  Exercícios e projetos iniciais voltados ao aprendizado de tecnologias web.
+  Projeto de modelagem e desenvolvimento de uma plataforma de streaming musical, inspirado no Spotify, com finalidade educacional e de experimentação técnica.
 
 > Os projetos têm caráter educacional e evolutivo, refletindo o processo de aprendizagem.
 
