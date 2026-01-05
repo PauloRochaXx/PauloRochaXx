@@ -22,7 +22,7 @@ Este GitHub reúne **projetos de estudo e desenvolvimento prático**, voltados p
 - Java
 - HTML, CSS, JavaScript  
 - Git e GitHub
-- VsCode
+- VS Code
 - PyCharm
 - Google Colab
 - RStudio
