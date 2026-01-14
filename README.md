@@ -25,6 +25,7 @@ Este GitHub reúne **projetos de estudo e desenvolvimento prático**, voltados p
 - VS Code
 - PyCharm
 - Google Colab
+- Jupyter
 - RStudio
 - MIT App Inventor
 
