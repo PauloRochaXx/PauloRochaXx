@@ -9,6 +9,7 @@ Este GitHub reúne **projetos de estudo e desenvolvimento prático**, voltados p
 
 ## 🚀 Áreas de interesse
 - Desenvolvimento de software
+- Administração de Banco de Dados
 - Análise e tratamento de dados
 - Automação de rotinas
 - Desenvolvimento web
@@ -18,6 +19,7 @@ Este GitHub reúne **projetos de estudo e desenvolvimento prático**, voltados p
 
 ## 🛠️ Tecnologias e ferramentas
 - Python
+- SQL
 - Linguagem R
 - Java
 - HTML, CSS, JavaScript  
