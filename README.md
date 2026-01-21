@@ -29,6 +29,8 @@ Este GitHub reúne **projetos de estudo e desenvolvimento prático**, voltados p
 - Google Colab
 - Jupyter
 - RStudio
+- DBeaver
+- SQL Server Management Studio
 - MIT App Inventor
 
 ---
