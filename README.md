@@ -41,9 +41,11 @@ Este GitHub reúne projetos de estudo e desenvolvimento prático, voltados princ
 Atuo como servidor **indicado institucionalmente** para **análise de dados acadêmicos e apoio à revisão de iniciativas estratégicas**, participando de atividades relacionadas à **análise de dados de cursos de graduação**, revisão de ações e proposição de melhorias com base em evidências, com **possíveis desdobramentos para outros cursos e unidades**.
 
 Essa atuação envolve:
-- Leitura e interpretação de dados institucionais  
-- Apoio à documentação de análises  
-- Acompanhamento de ações desde a análise até a incorporação em planos institucionais  
+- Recebimento e organização de bases de dados institucionais  
+- Tratamento, limpeza e estruturação de dados para análise  
+- Análise e interpretação de dados institucionais  
+- Identificação de evidências, padrões e tendências relevantes  
+- Elaboração de subsídios analíticos para indicação de melhorias e ações baseadas em evidências  
 
 ---
 
