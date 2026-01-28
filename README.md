@@ -52,7 +52,7 @@ Essa atuação envolve:
 ## 📂 Projetos em destaque
 Alguns projetos disponíveis neste repositório:
 
-### 🔹 TradutorEnglishVsPortuguese
+### 🔹 TradutorEnglishToPortuguese
 Aplicativo Android (APK) para tradução de textos do inglês para o português, desenvolvido no MIT App Inventor como projeto educacional.
 
 ### 🔹 Projeto Game Flappy Bird em Python
