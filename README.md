@@ -52,11 +52,8 @@ Essa atuação envolve:
 ## 📂 Projetos em destaque
 Alguns projetos disponíveis neste repositório:
 
-### 🔹 TradutorEnglishToPortuguese
-Aplicativo Android (APK) para tradução de textos do inglês para o português, desenvolvido no MIT App Inventor como projeto educacional.
-
-### 🔹 Projeto Game Flappy Bird em Python
-Implementação de jogo clássico em Python, com foco em lógica de programação e estruturação de código.
+### 🔹 SQL---Municipios-baianos-mais-populosos-em-2025
+Demonstração de consultas SQL aplicadas à organização e análise de dados públicos de população dos municípios da Bahia, a partir de base oficial do IBGE.
 
 ### 🔹 Desenvolvimento Web
 Projeto educacional de modelagem e desenvolvimento de uma plataforma de streaming musical, inspirado no Spotify, com foco em estrutura, organização e experimentação técnica.
