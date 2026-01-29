@@ -58,7 +58,6 @@ Demonstração de consultas SQL aplicadas à organização e análise de dados p
 ### 🔹 Desenvolvimento Web
 Projeto educacional de modelagem e desenvolvimento de uma plataforma de streaming musical, inspirado no Spotify, com foco em estrutura, organização e experimentação técnica.
 
-> Os projetos possuem caráter educacional e evolutivo, refletindo o processo contínuo de aprendizagem em programação, dados e tecnologia.
 
 ---
 
