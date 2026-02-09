@@ -2,7 +2,7 @@
 
 Sou servidor público federal, atuo como Administrador na Universidade Federal do Oeste da Bahia (UFOB) e sou graduando em Análise e Desenvolvimento de Sistemas (UESB). Tenho interesse em **tecnologia aplicada à gestão pública**, com foco em **análise de dados, assessoramento a projetos institucionais e desenvolvimento de soluções simples, funcionais e orientadas à tomada de decisão**.
 
-Este GitHub reúne projetos de estudo e desenvolvimento prático, voltados principalmente para **aprendizado contínuo**, **organização de portfólio técnico** e **aplicação de conceitos de programação, dados e automação no contexto organizacional**.
+Este GitHub reúne projetos de estudo e desenvolvimento prático, voltados principalmente para **organização de portfólio técnico** e **aplicação de conceitos de programação, dados e automação no contexto organizacional**.
 
 ---
 
