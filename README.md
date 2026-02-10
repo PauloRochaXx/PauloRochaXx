@@ -9,9 +9,13 @@ Este GitHub funciona como **portfólio técnico**, reunindo projetos práticos e
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PauloRochaXx&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRochaXx&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloRochaXx&show_icons=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRochaXx&layout=compact" />
+</p>
+
 
 ---
 
