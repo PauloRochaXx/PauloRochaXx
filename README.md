@@ -24,16 +24,14 @@ Este GitHub funciona como portfólio técnico, reunindo projetos práticos em pr
 - SQL  
 - Linguagem R  
 - Java  
-- HTML, CSS e JavaScript  
-- Git e GitHub  
+- HTML, CSS e JavaScript   
 
 **Ambientes e ferramentas**
 - VS Code  
 - PyCharm  
 - Google Colab  
 - Jupyter Notebook  
-- RStudio  
-- DBeaver  
+- RStudio   
 - SQL Server Management Studio  
 - MIT App Inventor  
 
