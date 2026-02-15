@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Paulo Rocha
 
-Sou servidor público federal, atuo como Administrador na Universidade Federal do Oeste da Bahia (UFOB) e possuo formação em Administração, além de graduação em andamento em Análise e Desenvolvimento de Sistemas (UESB). Minha atuação concentra-se na aplicação de tecnologia à gestão pública, especialmente em análise e tratamento de dados, apoio técnico a projetos institucionais e desenvolvimento de soluções computacionais simples, funcionais e orientadas à tomada de decisão baseada em evidências.
+Sou servidor público federal, atuo como Administrador na Universidade Federal do Oeste da Bahia (UFOB) e possuo MBA em Gestão Pública pela ENAP. Atualmente, curso Técnico em Inteligência Artificial pelo IFNMG e graduação em Análise e Desenvolvimento de Sistemas pela UESB. Minha atuação concentra-se na aplicação de tecnologia à gestão pública, especialmente em análise e tratamento de dados, apoio técnico a projetos institucionais e desenvolvimento de soluções computacionais simples, funcionais e orientadas à tomada de decisão baseada em evidências.
 
 Este GitHub funciona como **portfólio técnico**, reunindo projetos práticos em programação, dados e automação, com foco em contextos institucionais e organizacionais.
 
