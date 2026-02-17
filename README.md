@@ -25,6 +25,7 @@ Este GitHub funciona como **portfólio técnico**, reunindo projetos práticos e
 - Linguagem R  
 - Java  
 - HTML, CSS e JavaScript
+- Git / Github
 
 **Ambientes e ferramentas**
 - VS Code  
@@ -33,7 +34,8 @@ Este GitHub funciona como **portfólio técnico**, reunindo projetos práticos e
 - Jupyter Notebook  
 - RStudio
 - SQL Server Management Studio  
-- MIT App Inventor  
+- MIT App Inventor
+- Power BI
 
 ---
 
