@@ -57,8 +57,8 @@ Essa atuação envolve:
 🔹 **SQL — Municípios baianos mais populosos (2025)**  
 Consultas SQL aplicadas à organização e análise de dados públicos de população dos municípios da Bahia, a partir de base oficial do IBGE.
 
-🔹 **Python / R — ENEM | Análise territorial, socioeconômica e de desempenho por NTE (Bahia)**  
-Projeto analítico com microdados do ENEM (2022–2024), utilizando estatística e inteligência artificial (machine learning) para analisar desigualdades socioeconômicas, territoriais e padrões de desempenho educacional nos NTEs da Bahia.
+🔹 **Python — Desempenho Socioeconômico Territorial do ENEM na Bahia**  
+Projeto analítico com microdados do ENEM (2019–2024), utilizando estatística e inteligência artificial (machine learning) para analisar desigualdades socioeconômicas, territoriais e padrões de desempenho educacional nos NTEs da Bahia.
 
 ---
 
