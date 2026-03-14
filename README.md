@@ -77,4 +77,4 @@ Este GitHub é utilizado como portfólio técnico, com o objetivo de:
 - Lattes: http://lattes.cnpq.br/8978917236963727  
 - E-mail: paulosroc@hotmail.com  
 
-⭐ Sinta-se à vontade para explorar os repositórios
+⭐ Sinta-se à vontade para explorar os repositórios.
