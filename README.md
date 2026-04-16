@@ -57,8 +57,11 @@ Essa atuação envolve:
 🔹 **SQL — Municípios baianos mais populosos (2025)**  
 Consultas SQL aplicadas à organização e análise de dados públicos de população dos municípios da Bahia, a partir de base oficial do IBGE.
 
-🔹 **Python — Desempenho Socioeconômico Territorial do ENEM na Bahia**  
+🔹 **Jupyter — Desempenho Socioeconômico Territorial do ENEM na Bahia**  
 Projeto analítico com microdados do ENEM (2019–2024), utilizando estatística e inteligência artificial (machine learning) para analisar desigualdades socioeconômicas, territoriais e padrões de desempenho educacional nos NTEs da Bahia.
+
+🔹 **Python — Laboratório de Automação: PDF Editor** 
+O PDF Editor é o primeiro programa da série Automation Lab, um projeto voltado à criação de pequenas soluções de automação para rotinas de escritório. Ele automatiza a união de arquivos PDF diretamente da Área de Trabalho, incluindo recursos como validação dos arquivos, renomeação sequencial e geração de nomes de saída únicos. A ferramenta é ideal para uso corporativo ou pessoal, especialmente em cenários que exigem tratamento local de documentos, sem depender de serviços online e, portanto, sem expor dados sensíveis.
 
 ---
 
