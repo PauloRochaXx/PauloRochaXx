@@ -35,20 +35,7 @@ Este GitHub funciona como **portfólio técnico**, reunindo projetos práticos e
 - RStudio
 - SQL Server Management Studio  
 - MIT App Inventor
-- Power BI
-
----
-
-## 🧩 Experiência recente em análise de dados institucionais
-
-Atuo como servidor indicado institucionalmente para análise de dados acadêmicos e apoio à revisão de iniciativas estratégicas, participando de atividades relacionadas à análise de dados de cursos de graduação, revisão de ações e proposição de melhorias com base em evidências, com possíveis desdobramentos para outros cursos e unidades.
-
-Essa atuação envolve:
-- Recebimento e organização de bases de dados institucionais  
-- Tratamento, limpeza e estruturação de dados para análise  
-- Análise e interpretação de dados institucionais  
-- Identificação de evidências, padrões e tendências relevantes  
-- Elaboração de subsídios analíticos para indicação de melhorias e ações baseadas em evidências  
+- Power BI  
 
 ---
 
